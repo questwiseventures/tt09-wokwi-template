@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+To make OUT0 = 1, just set IN0=1 and IN1=1, otherwise OUT0 will be 0.
 
 ## How to test
 
-Explain how to use your project
+To make OUT0 = 1, just set IN0=1 and IN1=1, otherwise OUT0 will be 0.
 
 ## External hardware
 
